@@ -1,60 +1,71 @@
-<h1 align="center">BebopSpikeSpiegel</h1>
+<h1 align="center">~/BebopSpikeSpiegel</h1>
 
 <p align="center">
-  <em>Full-stack, systems, security, and the occasional game mod.</em><br/>
-  <sub>"Whatever happens, happens." Mostly it compiles.</sub>
+  <sub><code>whatever happens, happens. mostly it compiles.</code></sub>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Final--year%20CS-University%20of%20Malaya-2b2b2b?style=flat-square" alt="University of Malaya" />
-  <img src="https://img.shields.io/badge/Track-System%20%26%20Network-2b2b2b?style=flat-square" alt="System and Network" />
-  <img src="https://img.shields.io/badge/Next%20stop-Master's%20in%20Japan-2b2b2b?style=flat-square" alt="Masters in Japan" />
+```console
+$ neofetch
+```
+
+```text
+            .-"      "-.            spike@bebop
+           /            \           -----------
+          |              |          OS........: Final-year CS @ University of Malaya
+          |,  .-.  .-.  ,|          Track.....: System & Network
+          | )(_o/  \o_)( |          Uptime....: graduating Jun 2027
+          |/     /\     \|          Next boot.: Master's @ Japan
+          (_     ^^     _)          Shell.....: full-stack / systems / security / game-mods
+           \__|IIIIII|__/           Editor....: whatever has vim keybinds
+            | \IIIIII/ |            Motto.....: fast, deliberate, slightly over-engineered
+            \          /
+             `--------`             Langs.....: Python  Go  Java  C++  TypeScript
+                                    Stack.....: FastAPI  Next.js  PostgreSQL  Redis  Docker  Linux
+```
+
+---
+
+```console
+$ cat ~/.bio
+```
+
+> Final-year Computer Science student at the University of Malaya (System & Network),
+> graduating June 2027, currently applying to master's programs in Japan.
+> I build across the stack and below it: web services, low-level systems work,
+> a bit of security, and game modding when I want to break something on purpose.
+
+---
+
+```console
+$ ls -la ~/projects
+```
+
+```text
+drwxr-xr-x  cosano/          LAN chess-notation + live-broadcast server   [private]
+            └─ with the Hong Kong China Chess Federation (external collaborator)
+            └─ FastAPI · Next.js · PostgreSQL · Redis · Docker
+
+drwx------  huozhong/        DPI-resistant cross-platform VPN client      [commercial, closed]
+            └─ built on the Xray core
+            └─ Go
+
+-rwxr-xr-x  nomorealtf4*     Hitman plugin, IAT hooks on WinHttpSendRequest
+            └─ C++
+
+-rwxr-xr-x  the-space-cowboy*  custom Slay the Spire character mod
+            └─ Java · Maven
+```
+
+<p align="left">
+  <a href="https://github.com/BebopSpikeSpiegel/NoMoreAltF4"><img src="https://img.shields.io/badge/repo-NoMoreAltF4-2b2b2b?style=flat-square&logo=github" alt="NoMoreAltF4" /></a>
+  <a href="https://github.com/BebopSpikeSpiegel/The-Space-Cowboy"><img src="https://img.shields.io/badge/repo-The--Space--Cowboy-2b2b2b?style=flat-square&logo=github" alt="The Space Cowboy" /></a>
 </p>
 
 ---
 
-### whoami
-
-Final-year Computer Science student at the University of Malaya (System and Network track),
-graduating June 2027. Currently applying to master's programs in Japan.
-
-I build across the stack and below it: web services, low-level systems work, a bit of
-security, and game modding when I want to break something on purpose. I like things that
-are fast, deliberate, and slightly over-engineered.
-
----
-
-### what i build
-
-- **Backends that hold up under load.** APIs, real-time broadcast, the plumbing nobody sees.
-- **Systems and networking.** Native code, hooks, protocol-level work, things that talk to the wire.
-- **Security-adjacent tooling.** Understanding a system well enough to bend it.
-- **Game mods.** C++ plugins and full character mods, because reverse engineering is fun.
-
----
-
-### featured work
-
-**CosaNo** *(repo currently private)* — LAN chess-tournament notation and live-broadcast server.
-Records game notation and broadcasts boards live over a local network. Built as an external
-collaborator with the Hong Kong China Chess Federation.
-`FastAPI` · `Next.js` · `PostgreSQL` · `Redis` · `Docker`
-
-**Project HuoZhong** *(commercial, source private)* — DPI-resistant, cross-platform VPN client
-built on the Xray core. Professional work, so this one stays behind the curtain.
-`Go` · `Xray core`
-
-**[NoMoreAltF4](https://github.com/BebopSpikeSpiegel/NoMoreAltF4)** — Hitman plugin that hooks
-`WinHttpSendRequest` via IAT patching. Small, sharp, native.
-`C++`
-
-**[The Space Cowboy](https://github.com/BebopSpikeSpiegel/The-Space-Cowboy)** — a custom
-*Slay the Spire* character mod. New cards, new identity, same bad decisions at 3 mana.
-`Java` · `Maven`
-
----
-
-### tech
+```console
+$ which
+```
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -74,7 +85,9 @@ built on the Xray core. Professional work, so this one stays behind the curtain.
 
 ---
 
-### stats
+```console
+$ git log --stat --author=BebopSpikeSpiegel
+```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BebopSpikeSpiegel&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub stats" />
@@ -88,12 +101,10 @@ built on the Xray core. Professional work, so this one stays behind the curtain.
 
 ---
 
-<p align="center">
-  <a href="mailto:res.badboyseventeen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2b2b2b?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+```console
+$ contact --email
+res.badboyseventeen@gmail.com
 
-<p align="center">
-  <sub>See you, space cowboy.</sub>
-</p>
+$ exit
+see you, space cowboy...
+```
