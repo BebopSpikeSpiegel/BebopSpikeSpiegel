@@ -8,20 +8,30 @@
 $ neofetch
 ```
 
-```text
-                  __                  spike@bebop
-                 /  \_____            -----------
-       .--------=======------.        OS........: Final-year CS @ University of Malaya
-   .--' SWORDFISH-II  o  o  o `--.    Track.....: System & Network
-  (  ====______________________  )   Uptime....: graduating Jun 2027
-   `--.________________________.--'   Next boot.: Master's @ Japan
-        |   |              |   |       Shell.....: full-stack / systems / security / game-mods
-        '---'   /\    /\   '---'       Editor....: whatever has vim keybinds
-               /  \__/  \              Motto.....: fast, deliberate, slightly over-engineered
-              '--'    '--'
-                                       Langs.....: Python  Go  Java  C++  TypeScript
-                  >> red mono-racer    Stack.....: FastAPI  Next.js  PostgreSQL  Redis  Docker  Linux
-```
+<table>
+<tr>
+<td valign="top">
+<img src="assets/spike.png" width="240" alt="spike" />
+</td>
+<td valign="top">
+<pre>
+spike@bebop
+-----------
+OS........: Final-year CS @ University of Malaya
+Track.....: System &amp; Network
+Uptime....: graduating Jun 2027
+Next boot.: Master's @ Japan
+Shell.....: full-stack / systems / security / game-mods
+Editor....: whatever has vim keybinds
+Motto.....: fast, deliberate, slightly over-engineered
+
+Langs.....: Python  Go  Java  C++  TypeScript
+Stack.....: FastAPI  Next.js  PostgreSQL
+            Redis  Docker  Linux
+</pre>
+</td>
+</tr>
+</table>
 
 ---
 
