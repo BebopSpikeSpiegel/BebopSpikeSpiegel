@@ -126,22 +126,7 @@ $ git log --stat --author=BebopSpikeSpiegel
 >
 > <sub><code>// the CI is round. so is the world. so is this.</code></sub>
 
-```text
-        ._________________________.
-        |                         |
-        |                         |_____
-        |                               |
-        |___                            |
-            |    L O U I S I A N A      |
-            |                      _____|
-            |____             ____|
-                 |           |   _____
-                 |           |__|     |__
-                 |_____                  '-.__
-                       \                      '-.___
-                        '----.______.---.         '-.  (delta)
-                                         '--.______.-'
-```
+<img src="assets/louisiana.png" width="260" alt="Louisiana" />
 
 <sub><code>// the long bayou. where the king in yellow holds court.</code></sub>
 
