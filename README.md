@@ -1,7 +1,8 @@
 <h1 align="center">~/BebopSpikeSpiegel</h1>
 
 <p align="center">
-  <sub><code>whatever happens, happens. mostly it compiles.</code></sub>
+  <sub><code>whatever happens, happens. mostly it compiles.</code></sub><br/>
+  <sub><code>time is a flat circle. so is the event loop.</code></sub>
 </p>
 
 ```console
@@ -23,6 +24,7 @@ Uptime....: graduating Jun 2027
 Next boot.: Master's @ Japan
 Shell.....: full-stack / systems / security / game-mods
 Editor....: whatever has vim keybinds
+Outlook...: pessimist by default, commits anyway
 Motto.....: fast, deliberate, slightly over-engineered
 
 Langs.....: Python  Go  Java  C++  TypeScript
@@ -43,6 +45,7 @@ $ cat ~/.bio
 > graduating June 2027, currently applying to master's programs in Japan.
 > I build across the stack and below it: web services, low-level systems work,
 > a bit of security, and game modding when I want to break something on purpose.
+> I tell myself I'm chasing the work, not the void. The stack traces stay neutral on it.
 
 ---
 
@@ -116,5 +119,6 @@ $ contact --email
 res.badboyseventeen@gmail.com
 
 $ exit
+# once there was only dark. if you ask me, the light's winning.
 see you, space cowboy...
 ```
