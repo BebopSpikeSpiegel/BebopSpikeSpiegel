@@ -9,18 +9,18 @@ $ neofetch
 ```
 
 ```text
-            .-"      "-.            spike@bebop
-           /            \           -----------
-          |              |          OS........: Final-year CS @ University of Malaya
-          |,  .-.  .-.  ,|          Track.....: System & Network
-          | )(_o/  \o_)( |          Uptime....: graduating Jun 2027
-          |/     /\     \|          Next boot.: Master's @ Japan
-          (_     ^^     _)          Shell.....: full-stack / systems / security / game-mods
-           \__|IIIIII|__/           Editor....: whatever has vim keybinds
-            | \IIIIII/ |            Motto.....: fast, deliberate, slightly over-engineered
-            \          /
-             `--------`             Langs.....: Python  Go  Java  C++  TypeScript
-                                    Stack.....: FastAPI  Next.js  PostgreSQL  Redis  Docker  Linux
+      \ | | //                spike@bebop
+       \|||//                 -----------
+      '-.\|/.-'               OS........: Final-year CS @ University of Malaya
+        .---.                 Track.....: System & Network
+       / o o \                Uptime....: graduating Jun 2027
+       |  >  |                Next boot.: Master's @ Japan
+       | \_/ |==- ~           Shell.....: full-stack / systems / security / game-mods
+        \   /      ~          Editor....: whatever has vim keybinds
+         '-'        ~         Motto.....: fast, deliberate, slightly over-engineered
+        /   \
+       /     \                Langs.....: Python  Go  Java  C++  TypeScript
+      /_______\               Stack.....: FastAPI  Next.js  PostgreSQL  Redis  Docker  Linux
 ```
 
 ---
